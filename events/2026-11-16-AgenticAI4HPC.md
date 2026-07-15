@@ -144,12 +144,12 @@ header-includes:
     <ul class="aai-dates">
       <li>
         <span class="aai-label">Submission</span>
-        <span class="aai-date">August 1, 2026</span>
+        <span class="aai-date">August 7, 2026</span>
         <small>(AoE)</small>
       </li>
       <li>
         <span class="aai-label">Acceptance</span>
-        <span class="aai-date">September 4, 2026</span>
+        <span class="aai-date">September 7, 2026</span>
         <small>(AoE)</small>
       </li>
       <li>
@@ -159,7 +159,7 @@ header-includes:
       </li>
       <li>
         <span class="aai-label">Workshop</span>
-        <span class="aai-date">During SC 2026</span>
+        <span class="aai-date">November 15, 2026 · 9:00 AM – 12:30 PM</span>
       </li>
     </ul>
   </section>
@@ -383,7 +383,10 @@ header-includes:
   <section class="aai-section" id="submission">
     <h2>Manuscript Submission</h2>
     <p>
-      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length, formatted in the standard IEEE conference format including references. All paper submissions will be managed electronically via the SC26 workshop submission system. NOT YET OPEN FOR SUBMISSION.
+      We invite submissions of original, unpublished research and experiential papers. Full papers should be up to <strong>10 pages</strong> in length, formatted in the standard IEEE conference format including references. All paper submissions will be managed electronically via the <a href="https://submissions.supercomputing.org/">SC26 workshop submission system</a>. <strong>Submissions are not yet open.</strong>
+    </p>
+    <p>
+      All papers submitted for the official proceedings must use the IEEE proceedings template (two-column, US letter, conference mode for LaTeX). Please ensure your call for papers and author instructions reference the correct template, available here: <a href="https://www.ieee.org/conferences/publishing/templates">https://www.ieee.org/conferences/publishing/templates</a>.
     </p>
   </section>
 
